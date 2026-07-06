@@ -1,0 +1,1 @@
+ /Users/hdev/Dev/pastelcalc/.dart_tool/flutter_build/94f4078c04fe105196648ffd190aed71/native_assets.json: 
